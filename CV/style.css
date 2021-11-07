@@ -1,8 +1,10 @@
-#foto{
-    width: 300px;
-    height: 300px;
+#foto-de-perfil{
+    width: 350px;
+    height: 350px;
+}
+header{
     text-align: center;
 }
-h1[
-    color= grey;
-]
+h2, footer{
+    background-color: lightblue;   
+}
