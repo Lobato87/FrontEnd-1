@@ -1,4 +1,37 @@
+body{
+    background-color: #E5E5E5;
+}
+
 #descuento{
-    background-color:rgb(50, 197, 178);
-    height: 30px;
+    background-color: #1CD1B0;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 38px;
+    width: 1024;
+    position: absolute;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+header{
+    background-color: #00669F;
+    height: 101px;
+    width: 1024;
+    position: absolute;
+    top: 35px;
+    left: 0px;
+    right: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    size: 40px;
+    font-weight: 400;
+}
+
+.batman{
+    background-color: #F3F3F3;
+    width: 300px;
+    height: 336px;
+
 }
